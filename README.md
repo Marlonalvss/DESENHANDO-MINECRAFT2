@@ -3,7 +3,7 @@
 <img src="https://media.discordapp.net/attachments/999712721941581977/1045484423623221258/image.png?width=400&height=300">
 
 > O objetivo deste mini projeto pessoal, desenhar o creeper do minecraft, a partir de uma imagem do google.<br/>
-> Visualize aqui : "https://marlonalvss.github.io/DESENHANDO-MINECRAFT/"
+> Visualize aqui : " https://marlonalvss.github.io/DESENHANDO-MINECRAFT2/"
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
